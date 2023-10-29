@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Xin Ma
+- 👀 I’m interested in low-level vision, model compression, face recognition, video generation, generative models, etc
+- 💞️ I’m looking to collaborate on interesting minds
+- 📫 How to reach me: contact me with xin.ma1@monash.edu
 
 <!--
 **maxin-cn/maxin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

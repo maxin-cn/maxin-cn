@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Xin Ma
+- 🌱 I’m currently a Ph.D candidate at Monash University
 - 👀 I’m interested in low-level vision, model compression, face recognition, video generation, generative models, etc
 - 💞️ I'm always pursuing research collaborations on deep generative models for images and videos
 - 📫 How to reach me: contact me with xin.ma1@monash.edu

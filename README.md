@@ -4,7 +4,7 @@
 - 💞️ I'm always pursuing research collaborations on deep generative models for images and videos
 - 📫 How to reach me: contact me at xin.ma1@monash.edu
 
-![Xin' github stats](https://github-readme-stats.vercel.app/api?username=maxin-cn&show_icons=true&theme=transparent)
+![Xin' github stats](https://github-readme-stats-psi-eight-29.vercel.app/api?username=maxin-cn&show_icons=true&theme=transparent)
 
 <!--
 **maxin-cn/maxin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

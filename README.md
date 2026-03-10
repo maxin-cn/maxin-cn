@@ -6,6 +6,9 @@
 
 ![Xin' github stats](https://github-readme-stats-psi-eight-29.vercel.app/api?username=maxin-cn&show_icons=true&theme=transparent)
 
+| <a href="https://github.com/maxin-cn"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=maxin-cn&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Xin's github stats" /></a> | <a href="https://github.com/maxin-cn"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maxin-cn&theme=buefy&hide_border=true&layout=compact&hide=java,CSS&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
+
 <!--
 **maxin-cn/maxin-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

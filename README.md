@@ -4,7 +4,9 @@
 - 💞️ I'm always pursuing research collaborations on deep generative models for images and videos
 - 📫 How to reach me: contact me at xin.ma1@monash.edu
 
+<!--
 ![Xin' github stats](https://github-readme-stats-psi-eight-29.vercel.app/api?username=maxin-cn&show_icons=true&theme=transparent)
+-->
 
 | <a href="https://github.com/maxin-cn"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=maxin-cn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Xin's github stats" /></a> | <a href="https://github.com/maxin-cn"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=maxin-cn&theme=transparent&hide_border=true&layout=compact&hide=java,CSS&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
 | ------------- | ------------- |
